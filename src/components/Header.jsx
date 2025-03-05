@@ -24,6 +24,7 @@ const Header = ({ setSearchOpen }) => {
         {Object.keys(optionsList).map((menuItem, index) => (
           <DropdownMenu key={index} title={menuItem} options={optionsList[menuItem]} />
         ))}
+        
       </div>
 
       {/* Icons */}
