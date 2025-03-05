@@ -98,7 +98,7 @@ const ContactUs = () => {
       <MapComponent/>
 
 
-          {/* Full-width image, half-screen height */}
+          Full-width image, half-screen height
           <img
           src={tt}
           alt="Contact"
