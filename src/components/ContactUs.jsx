@@ -98,13 +98,13 @@ const ContactUs = () => {
       <MapComponent/>
 
 
-          Full-width image, half-screen height
+          {/* Full-width image, half-screen height
           <img
           src={tt}
           alt="Contact"
           className="w-full h-full object-cover backdrop-blur-none"
           
-        />
+        /> */}
 
 
 
