@@ -16,7 +16,7 @@ export default function App() {
     <div className="min-h-screen flex flex-col">
       <Routes>
         <Route path="/" element={<HomePage />} />
-        <Route path="/contact" element={<ContactUs />} /> {/* Contact Us route */}
+        <Route path="/contact" element={<ContactUs />} /> Contact Us route
       </Routes>
   {/* Conditionally render the footer */}
   {location.pathname !== "/contact" && <Footer />}

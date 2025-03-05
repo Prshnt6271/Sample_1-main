@@ -105,9 +105,7 @@ const ContactUs = () => {
           className="w-full h-full object-cover backdrop-blur-none"
           
         /> */}
-
-
-
+        
         
     </div>
   );
