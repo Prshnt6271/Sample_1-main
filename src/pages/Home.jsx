@@ -20,7 +20,7 @@ const HomePage = () => {
       <SearchModal searchOpen={searchOpen} setSearchOpen={setSearchOpen} />
 
       {/* Image Grid Below the Video */}
-      <div className="relative z-20 mt-[100vh]">
+      <div className="relative z-20 mt-[100vh] mb-5">
         <Nakheel />
       </div>
 
