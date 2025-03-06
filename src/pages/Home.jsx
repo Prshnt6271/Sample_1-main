@@ -25,7 +25,7 @@ const HomePage = () => {
       </div>
 
       {/* Footer (if needed) */}
-      {/* <Footer /> */}
+       <Footer /> 
     </div>
   );
 };
