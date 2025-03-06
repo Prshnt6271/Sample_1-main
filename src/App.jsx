@@ -18,8 +18,7 @@ export default function App() {
         <Route path="/" element={<HomePage />} />
         <Route path="/contact" element={<ContactUs />} /> Contact Us route
       </Routes>
-  {/* Conditionally render the footer */}
-  {location.pathname !== "/contact" && <Footer />}
+
     </div>
   );
 }
